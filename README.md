@@ -1,9 +1,9 @@
 # Kindle-Sentiment-analysis
 
-i have used:
+I have used:
 - BOW
 - TFIDF
 - Word2Vec
 - AvgWord2Vec
 
-Then i have used ml aglgrithms and compared the accuracyof all these
+Then i have used ml aglgrithms and compared the accuracy of all these
